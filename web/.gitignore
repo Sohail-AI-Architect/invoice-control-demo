@@ -1,0 +1,19 @@
+# Next.js / toolchain output for this app.
+
+node_modules/
+
+# Build output
+.next/
+out/
+build/
+
+# TypeScript
+next-env.d.ts
+*.tsbuildinfo
+
+# Local env files (.env.example IS tracked, on purpose)
+.env
+.env.local
+.env*.local
+
+.DS_Store

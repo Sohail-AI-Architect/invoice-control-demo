@@ -1,0 +1,23 @@
+# Repo-level ignores.
+#
+# Build output and toolchain artifacts inside web/ are owned by web/.gitignore,
+# so they are deliberately not repeated here.
+
+# Dependencies (any depth)
+node_modules/
+
+# Local environment files (.env.example IS tracked, on purpose)
+.env
+.env.local
+.env*.local
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# NOTE: .claude/ is deliberately NOT ignored.
+#
+# The Skill and subagent definitions in .claude/ are the source of truth for
+# this demo's rules — the two API routes are transcriptions of them. Anyone
+# browsing the repo needs to see those files for the project to make sense.

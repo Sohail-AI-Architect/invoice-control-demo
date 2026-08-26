@@ -1,0 +1,47 @@
+[
+  {
+    "id": "NL-4471",
+    "vendor": "Nordway Logistics AB",
+    "amountRaw": "$18,400.00",
+    "signatureRaw": "—",
+    "vendorHistoryNote": "on file since 2023 · 31 prior invoices",
+    "priorInvoiceCount": 31,
+    "invoiceDate": "2026-08-11"
+  },
+  {
+    "id": "PC-0092",
+    "vendor": "Petal & Co Catering",
+    "amountRaw": "$840.00",
+    "signatureRaw": "J. Rahman, approved 2026-08-19",
+    "vendorHistoryNote": "first invoice from this vendor",
+    "priorInvoiceCount": 0,
+    "invoiceDate": "2026-08-19"
+  },
+  {
+    "id": "AO-1130",
+    "vendor": "Acme Office Supply",
+    "amountRaw": "$2,315.50",
+    "signatureRaw": "signed by M. Osei, 2026-08-14",
+    "vendorHistoryNote": "on file since 2021 · 12 prior invoices",
+    "priorInvoiceCount": 12,
+    "invoiceDate": "2026-08-14"
+  },
+  {
+    "id": "HF-2287",
+    "vendor": "Halcyon Freight Group",
+    "amountRaw": "$10,000.00",
+    "signatureRaw": "pending sign-off",
+    "vendorHistoryNote": "no prior invoices — new vendor",
+    "priorInvoiceCount": 0,
+    "invoiceDate": "2026-08-22"
+  },
+  {
+    "id": "BM-5510",
+    "vendor": "Brightline Media",
+    "amountRaw": "$9,500.00",
+    "signatureRaw": "unsigned",
+    "vendorHistoryNote": "on file since 2024 · 4 prior invoices",
+    "priorInvoiceCount": 4,
+    "invoiceDate": "2026-08-20"
+  }
+]
