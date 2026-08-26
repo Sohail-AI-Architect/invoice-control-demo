@@ -8,7 +8,7 @@ There's a switch in the UI that forces the first process to lie. The second one 
 
 ## Live demo
 
-**https://your-deployment-url.vercel.app**
+**(https://invoice-control-demo.vercel.app/)**
 
 Try this: select **NL-4471**, then turn on **Simulate dishonest verdict**. The Maker panel will claim the invoice is `APPROVED`. The Checker panel will disagree, show you exactly which rule was broken, and refuse to let the payment through.
 
@@ -287,5 +287,6 @@ Nothing to configure. Point Vercel at this repo, set the root directory to `web`
 ## License
 
 MIT — see [LICENSE](LICENSE).
-#   i n v o i c e - c o n t r o l - d e m o  
+#   i n v o i c e - c o n t r o l - d e m o 
+ 
  
